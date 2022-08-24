@@ -125,4 +125,5 @@ blockquote::before {
   text-align: left;
   padding: 0px 0px 0px 110px;
   font-size: 15px;
+  color: red;
 }
